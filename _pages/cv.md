@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download the pdf [here](/files/CV.pdf).
+
 Education
 ======
 * B.S. in Department of Computer Science and Technology, Wuhan University, 2012
