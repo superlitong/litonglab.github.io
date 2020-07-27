@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.S. degree from Wuhan University in 2012 and my Ph.D. degree from Tsinghua University in 2017. I held a visiting researcher position with the School of Computer Science and Electronic Engineering of University of Essex, UK. I am currently a senior researcher in the Computer Network and Protocol Lab at Huawei. My research interests include cloud/edge computing, network protocol, measurement, and distributed communicaiton. During the last three years, my research focuses on transport protocol measurement, design, and implementation in both wired and wireless networks, two of which are published in SIGCOMM.
-
+I received my B.S. degree from Wuhan University in 2012 and my Ph.D. degree from Tsinghua University in 2017. In 2016, I held a visiting researcher position with the School of Computer Science and Electronic Engineering of University of Essex, UK. I am currently a senior researcher in the Computer Network and Protocol Lab at Huawei. My research interests include cloud/edge computing, network protocol, measurement, and distributed communicaiton. During the last three years, my research focuses on transport protocol measurement, design, and implementation in both wired and wireless networks, two of which are published in SIGCOMM.
 [More details about me](/cv/).
 
 News
