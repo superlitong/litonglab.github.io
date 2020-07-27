@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Tong Li (李彤)'s academic personal websites. Welcome!
+This is Tong Li's academic personal websites. Welcome!
 
 Biography
 ======
@@ -16,13 +16,13 @@ Tong Li received his B.S. degree from Wuhan University in 2012 and his Ph.D. deg
 
 News
 ======
-（New）May 2020,  my paper is accepted by ACM SIGCOMM 2020. 
-（New）May 2020, my paper is accepted by Chinese Journal of Computers. 
-July 2019, my paper is accepted by IEEE Network Magzine. 
-July 2019, my paper is accepted by IEEE TPDS. 
-October 2018, my paper is accepted by CCF TON. 
-August 22th, 2018, I gave a talk in the ACM SIGCOMM in Budapest, Hungary. Slides are available [here](http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_3.4.pdf).
-August 3th, 2018, I was invited to give a talk in the ACM APNET in Tsinghua, Beijing. Slides are available [here](https://leetong.weebly.com/publications.html).
-May 2018, my paper is accepted by ACM SIGCOMM 2018 (The most top conference, 40 out of 222 papers are accepted). Paper is available [here](https://leetong.weebly.com/publications.html).
-May 2018,  my paper is published by IEEE Transactions on Services Computing (TSC) (IF:3.520).
+* （New） May 2020,  my paper is accepted by ACM SIGCOMM 2020. 
+* （New） May 2020, my paper is accepted by Chinese Journal of Computers. 
+* July 2019, my paper is accepted by IEEE Network Magzine. 
+* July 2019, my paper is accepted by IEEE TPDS. 
+* October 2018, my paper is accepted by CCF TON. 
+* August 22th, 2018, I gave a talk in the ACM SIGCOMM in Budapest, Hungary. Slides are available [here](http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_3.4.pdf).
+* August 3th, 2018, I was invited to give a talk in the ACM APNET in Tsinghua, Beijing. Slides are available [here](https://leetong.weebly.com/publications.html).
+* May 2018, my paper is accepted by ACM SIGCOMM 2018 (The most top conference, 40 out of 222 papers are accepted). Paper is available [here](https://leetong.weebly.com/publications.html).
+* May 2018,  my paper is published by IEEE Transactions on Services Computing (TSC) (IF:3.520).
 
