@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "Tong Li's academic personal websites. Welcome!"
+title: "About me"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About me
-======
 Tong Li(李彤) received his B.S. degree from Wuhan University in 2012 and his Ph.D. degree from Tsinghua University in 2017. He held a visiting researcher position with the School of Computer Science and Electronic Engineering of University of Essex, UK. He is currently a senior researcher in the Computer Network and Protocol Lab at Huawei. His research interests include cloud/edge computing, network protocol, measurement, and distributed communicaiton. During the last three years, his research focuses on transport protocol measurement, design, and implementation in both wired and wireless networks, two of which are published in SIGCOMM.
 
 News
