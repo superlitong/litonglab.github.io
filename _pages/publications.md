@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: achive
 title: "Publications"
 permalink: /publications/
 author_profile: true
