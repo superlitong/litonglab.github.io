@@ -11,7 +11,7 @@ title                    : "Tong Li's Research Lab"
 title_separator          : "-"
 name                     : &name "Tong Li"
 description              : &description "Senior researcher in the Computer Network and Protocol Lab at Huawei, Ph.D. from Tsinghua University"
-url                      : "https://litonglab.com" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tong Li (李彤)"
   avatar           : "profile_small.jpg"
-  bio              : "Ph.D. from Tsinghua University, and Senior researcher in the Computer Network and Protocol Lab at Huawei"
+  bio              : "Ph.D. from Tsinghua University, and senior researcher in the Computer Network and Protocol Lab at Huawei"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
