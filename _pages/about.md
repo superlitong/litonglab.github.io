@@ -14,13 +14,14 @@ I received my B.S. degree from Wuhan University in 2012 and my Ph.D. degree from
 <video width="320" height="180" id="video" controls="" preload="none" poster="/images/video-poster/video-tack-sigcomm2020.png">
 <source id="mp4" src="/files/media/video-tack-sigcomm2020.mp4" type="video/mp4">
 </video>
-[Download video here](/files/media/video-tack-sigcomm2020.mp4). More medias please refer to [Publications](/publications/).
+[Download video here](/files/media/video-tack-sigcomm2020.mp4). For more media please refer to [Publications](/publications/).
 
 News
 ======
 
+* (New) August 4th, 2020, I was invited to give a talk in the ACM APNET held online. Slides are available [here](/files/media/slides-tack-sigcomm2020.pptx).
 * (New) May 2020, my paper is accepted by ACM SIGCOMM 2020.
-* (New) May 2020, my paper is accepted by Chinese Journal of Computers.
+* May 2020, my paper is accepted by Chinese Journal of Computers.
 * July 2019, my paper is accepted by IEEE Network Magzine.
 * July 2019, my paper is accepted by IEEE TPDS.
 * October 2018, my paper is accepted by CCF TON.
