@@ -16,6 +16,4 @@ The shared nature of the wireless medium induces contention between data transpo
 
 [Download video here](/files/media/video-tack-sigcomm2020.mp4)
 
-<video width="640" height="360" id="video" controls="" preload="none" poster="/images/video-poster/video-tack-sigcomm2020.png">
-<source id="mp4" src="/files/media/video-tack-sigcomm2020.mp4" type="video/mp4">
-</video>
+![Screenshot of the video](/images/video-poster/video-tack-sigcomm2020.png)
